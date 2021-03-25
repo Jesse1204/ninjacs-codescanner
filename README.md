@@ -1,0 +1,1 @@
+# ninjacs-codescanner
